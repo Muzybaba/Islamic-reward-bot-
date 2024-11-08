@@ -2,7 +2,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, CallbackQueryH
 import random
 import os
 
-TOKEN = '7426643033:AAFa48_-xFErU4efQndTVvenpNktzRxsAOo'
+TOKEN = ''
 
 duas = [
     "Allahumma ajirni minan-naar",
